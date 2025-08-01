@@ -1,0 +1,35 @@
+\begin{thebibliography}{}
+
+\bibitem[Bhasin et~al., 2020]{AES_HD_Ext}
+Bhasin, S., Jap, D., and Picek, S. (2020).
+\newblock {AES HD dataset - 500\,000 traces}.
+\newblock AISyLab repository.
+\newblock {\url{https://github.com/AISyLab/AES_HD_2}}.
+
+\bibitem[Fan et~al., 2022]{Fan2022}
+Fan, X., Tong, J., Li, Y., Duan, X., and Ren, Y. (2022).
+\newblock Power analysis attack based on hamming weight model without brute force cracking.
+\newblock {\em Security and Communication Networks}, 2022:11.
+
+\bibitem[Fu et~al., 2017]{Fu2017LinearRS}
+Fu, S., Wang, Z., Wei, F., Xu, G., and Wang, A. (2017).
+\newblock Linear regression side channel attack applied on constant xor.
+\newblock {\em IACR Cryptol. ePrint Arch.}, 2017:1217.
+
+\bibitem[Kwon et~al., 2021]{9400816}
+Kwon, D., Kim, H., and Hong, S. (2021).
+\newblock Non-profiled deep learning-based side-channel preprocessing with autoencoders.
+\newblock {\em IEEE Access}, 9:57692--57703.
+
+\bibitem[Moussa Ali~Abdellatif et~al., 2017]{moussaaliabdellatif:emse-01490735}
+Moussa Ali~Abdellatif, K., Courouss{\'e}, D., Potin, O., and Jaillon, P. (2017).
+\newblock {Filtering-based CPA: a successful side-channel attack against desynchronization countermeasures}.
+\newblock In {\em {Fourth Workshop on Cryptography and Security in Computing Systems (CS2 '17)}}, pages 29--32, Stockholm, Sweden.
+
+\bibitem[Victor~Lomné and Roche, 2013]{paper1}
+Victor~Lomné, E.~P. and Roche, T. (2013).
+\newblock Behind the scene of side channel attacks - extended version.
+\newblock {\em ANSSI}.
+\newblock 51, Bd de la Tour-Maubourg, 75700 Paris 07 SP, France.
+
+\end{thebibliography}
